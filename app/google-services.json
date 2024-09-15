@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734345682704",
+    "project_id": "purewater-real",
+    "storage_bucket": "purewater-real.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734345682704:android:711b912ddb0b41a9114f95",
+        "android_client_info": {
+          "package_name": "com.codebee.waterrider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTbJdpGFMFJhnRwemudDMrcM6PbimjVpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

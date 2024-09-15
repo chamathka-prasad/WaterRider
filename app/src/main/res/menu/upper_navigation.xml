@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/navHome"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_repair_service_24"
+        />
+
+
+    <item
+        android:id="@+id/navtrack"
+        android:icon="@drawable/baseline_share_location_24"
+
+        android:title="Track" />
+    <item
+        android:id="@+id/navchat"
+        android:icon="@drawable/baseline_connect_without_contact_24"
+        android:title="Chat" />
+    <item
+        android:id="@+id/navorder"
+        android:title="Orders"
+
+        />
+    <item
+        android:id="@+id/navprofile"
+        android:title="Profile" />
+
+</menu>
